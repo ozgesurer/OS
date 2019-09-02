@@ -9,6 +9,15 @@ navbar:
       href: about.html
     - text: "CV"
       href: CV.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/ozgesurer
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ozgesrr?lang=en
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/özge-sürer-48224a33
 output:
   html_document:
     theme: flatly

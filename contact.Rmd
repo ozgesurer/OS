@@ -1,0 +1,14 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+I'd love to hear from you, so feel free to reach out:
+
+Northwestern University<br>
+Department of Industrial Engineering and Management Sciences<br>
+Evanston, IL 60208<br>
+312-909-6737<br>
+ozgesurer2019@u.northwestern.edu<br>
+
+Or connect with me on GitHub, Twitter, or Linkedin (links in top right).
