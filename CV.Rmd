@@ -1,0 +1,31 @@
+---
+title: "CV"
+---
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+
+# EDUCATION
+
+* Northwestern University, Anticipated June 2020
+    + Ph.D. candidate in Industrial Engineering and Management Sciences
+* Bogazici University, 2014
+    + M.S. in Industrial Engineering
+* Istanbul Technical University, 2011
+    + B.S. in Industrial Engineering
+    
+# PROFESSIONAL EXPERIENCE
+
+* United Airlines, Chicago, IL
+    + Statistics and Operations Research Intern, June 2019 – September 2019
+* Spiegel Research Center/Northwestern University
+    + Research Fellow, September 2016 – Present
+
+# TEACHING EXPERIENCE
+
+* Northwestern University, Industrial Engineering and Management Sciences Department
+    + Instructor, Spring 2019
+        - IEMS 303 Statistics 
+    + Teaching Assistant, September 2016 – Present
+        - IEMS 202 Probability 
+        - IEMS 303 Statistics
+        - MSIA 421 Data Mining

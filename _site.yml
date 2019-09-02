@@ -1,0 +1,15 @@
+name: "website"
+output_dir: "."
+navbar:
+  title: "Ozge's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "CV"
+      href: CV.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

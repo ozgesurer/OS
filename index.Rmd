@@ -1,0 +1,10 @@
+---
+title: "Ozge Surer"
+---
+
+![](os.jpg)
+Welcome to my personal website! 
+
+I am a Ph.D. candidate in the Industrial Engineering and Management Sciences Department at Northwestern University. I have an M.S. degree from the Industrial Engineering Department at Bogazici University in Turkey, and a B.S. degree in the same field at Istanbul Technical University.
+
+My research interests lie in applied statistical learning, in particular design of new interpretable predictive models and their interdisciplinary applications.
