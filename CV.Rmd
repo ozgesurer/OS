@@ -8,11 +8,13 @@ title: "CV"
 
 * Northwestern University, Anticipated June 2020
     + Ph.D. candidate in Industrial Engineering and Management Sciences
-* Bogazici University, 2014
+* [Bogazici University](http://www.ie.boun.edu.tr), 2014
     + M.S. in Industrial Engineering
 * Istanbul Technical University, 2011
     + B.S. in Industrial Engineering
-    
+
+[You can find the list of courses I have taken.](_courses.html)
+
 # PROFESSIONAL EXPERIENCE
 
 * United Airlines, Chicago, IL
