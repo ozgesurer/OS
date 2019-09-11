@@ -13,6 +13,7 @@ title: "CV"
 * [Istanbul Technical University](https://isl.itu.edu.tr/en/academics/departments/industrial-engineering), 2011
     + B.S. in Industrial Engineering
 
+
 [You can find the list of courses I have taken.](_courses.html)
 
 # PROFESSIONAL EXPERIENCE
