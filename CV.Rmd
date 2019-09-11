@@ -6,11 +6,11 @@ title: "CV"
 
 # EDUCATION
 
-* Northwestern University, Anticipated June 2020
+* [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), Anticipated June 2020
     + Ph.D. candidate in Industrial Engineering and Management Sciences
 * [Bogazici University](http://www.ie.boun.edu.tr), 2014
     + M.S. in Industrial Engineering
-* Istanbul Technical University, 2011
+* [Istanbul Technical University](https://isl.itu.edu.tr/en/academics/departments/industrial-engineering), 2011
     + B.S. in Industrial Engineering
 
 [You can find the list of courses I have taken.](_courses.html)
