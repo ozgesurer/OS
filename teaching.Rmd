@@ -1,0 +1,5 @@
+---
+title: "Teaching"
+---
+
+<a href="folder/main.pdf#" class="download" title="Download STAR poster as PDF">Download STAR poster</a>		
