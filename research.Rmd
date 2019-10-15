@@ -2,11 +2,31 @@
 title: "Research"
 ---
 
-**Coefficient tree regression for discovering structure in generalized linear models**
+##Interpretable, fast, and accurate predictive models
+
+My dissertation develops new methods to discover group structure from high-dimensional data to address various problems in big-data environments. To discover the group structure, my dissertation proposes a new algorithm, ***coefficient tree regression***, that fits regression models in a fundamentally different way. 
+
+***Coefficient tree regression for discovering structure in generalized linear models***
 
 Massive regression data sets are now commonplace, with so many predictors that they cannot or should not all be included individually. In practice, derived predictors that are the sum of groups of individual predictors (which is equivalent to predictors within groups sharing the same coefficient) are often relevant. However, the groups of predictors are often not known in advance, and they must be discovered from the data. In this study, we extend our coefficient tree regression algorithm to generalized linear models to discover the group structure from the data.
 
-**Discovering structure in longitudinal data via coefficient tree regression**
+***Discovering structure in longitudinal data***
 
 When the data have a spatial and/or temporal component, we often expect that predictor variables that are closer in space and/or time are more likely to be associated with the response in the same way. In such situations, we can exploit those aspects and discover groups of predictors that share the same coefficient according to their spatial and/or temporal proximity. In this study, we propose a new algorithm called coefficient tree regression for longitudinal data to understand the underlying spatial and/or temporal characteristics of the data.
 
+##The use of statistical learning algorithms in recommender systems
+
+Beyond my dissertation, recently, I have been interested in two closely-related topics:
+
+***Multi-stakeholder recommendation***, which refers to a recommendation application in which parties other than just the end user need to be considered in computing recommendation outcomes. 
+
+***Fairness-aware recommendation*** is a sub-class of multistakeholder recommendation in which the system has a concern for delivering results that meet some criterion of fairness. Besides accuracy, fairness in machine learning has
+begun to be extended to recommender systems.
+
+[See our paper in RecSys'18](https://dl.acm.org/citation.cfm?id=3240350)
+
+My interest in interpretable models comes from our initial study in recommender systems.
+
+[See our paper in RecSys'17](https://dl.acm.org/citation.cfm?id=3109863)
+
+In this study, we improved the prediction accuracy of learning algorithms by integrating ontological information into the recommender systems. However, when the ontological information is not known in advance, it should be estimated from the data. This problem brought a new perspective to my current research in discovering a hidden ontology from the data, and it is the focus of my dissertation as explained above.

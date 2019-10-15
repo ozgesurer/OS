@@ -46,11 +46,11 @@ analysis and their applications, and covers descriptive statistics and statistic
 
 # PUBLICATIONS & WORKING PAPERS
 
-* **Ozge Surer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression for discovering structure in generalized linear models. To be submitted.
-
-* **Ozge Surer**, Daniel Apley, Edward C. Malthouse. Discovering structure in longitudinal data via coefficient tree regression. To be submitted.
-
 * **Ozge Surer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression:  Fast, accurate and interpretable predictive modeling. Submitted.
+
+* **Ozge Surer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression for discovering structure in generalized linear models. In preparation.
+
+* **Ozge Surer**, Daniel Apley, Edward C. Malthouse. Discovering structure in longitudinal data via coefficient tree regression. In preparation.
 
 * **Ozge Surer**, Robin Burke, Edward C. Malthouse. Multistakeholder recommendation with provider constraints. *Proceedings of the 12th ACM Conference on Recommender Systems*, 54--62, 2018.
 
