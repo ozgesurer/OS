@@ -4,7 +4,7 @@ title: "Research"
 
 ##Interpretable, fast, and accurate predictive models
 
-My dissertation develops new methods to discover group structure from high-dimensional data to address various problems in big-data environments. To discover the group structure, my dissertation proposes a new algorithm, ***coefficient tree regression***, that fits regression models in a fundamentally different way. 
+My dissertation proposes a new algorithm, ***coefficient tree regression***, that fits regression models in a fundamentally different way to discover the group structure from high-dimensional data.
 
 ***Coefficient tree regression for discovering structure in generalized linear models***
 
