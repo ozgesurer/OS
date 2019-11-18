@@ -18,6 +18,8 @@ navbar:
       href: https://twitter.com/ozgesrr?lang=en
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/özge-sürer-48224a33
+    - icon: ai-google-scholar
+      href: https://scholar.google.com/citations?hl=en&user=3xDBhh4AAAAJ
 output:
   html_document:
     theme: flatly
