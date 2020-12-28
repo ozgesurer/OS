@@ -1,7 +1,7 @@
 ---
-title: "Ozge Surer"
 ---
 
+$$\\[0.5in]$$
 ![](folder/os.jpg)
 Welcome to my personal website! 
 

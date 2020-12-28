@@ -1,6 +1,7 @@
 ---
-title: "CV"
 ---
+
+$$\\[0.5in]$$
 
 <a href="folder/CV_OzgeSurer.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 

@@ -7,7 +7,7 @@
 
     
     
-    <title>Research</title>
+    <title></title>
 
         <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -125,7 +125,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-         <a class="navbar-brand" href="index.html">Ozge's Website</a>
+         <a class="navbar-brand" href="index.html">Özge Sürer</a>
        </div>
        <div id="navbar" class="navbar-collapse collapse">
          <ul class="nav navbar-nav">
@@ -133,10 +133,13 @@
      <a href="index.html">Home</a>
    </li>
    <li>
+     <a href="education.html">Education</a>
+   </li>
+   <li>
      <a href="research.html">Research</a>
    </li>
    <li>
-     <a href="CV.html">CV</a>
+     <a href="teaching.html">Teaching</a>
    </li>
          </ul>
          <ul class="nav navbar-nav navbar-right">
@@ -175,11 +178,10 @@
      </div><!--/.container -->
    </div><!--/.navbar -->
         
-      <h1 class="title">Research</h1>
       
          <!-- readthedown authors -->
    <div id="sidebar">
-    <h2><a href="#content">Research</a></h2>
+    <h2><a href="#content"></a></h2>
     <div id="toc">
       <ul>
       <li><a href="#interpretable-fast-and-accurate-predictive-models">Interpretable, fast, and accurate predictive models</a></li>
@@ -195,6 +197,7 @@
    
 <!-- Don't indent these lines or it will mess pre blocks indentation --> 
 <div id="main">
+<p><span class="math display">\[\\[0.5in]\]</span></p>
 <div id="interpretable-fast-and-accurate-predictive-models" class="section level2">
 <h2>Interpretable, fast, and accurate predictive models</h2>
 <p>My dissertation proposes a new algorithm, <strong><em>coefficient tree regression</em></strong>, that fits regression models in a fundamentally different way to discover the group structure from high-dimensional data.</p>
@@ -225,7 +228,19 @@
 
 			
  		
-	    });
+		$('#content img').addClass("image-lb");
+	$('#content').magnificPopup({
+	    type:'image',
+	    closeOnContentClick: false,
+	    closeBtnInside: false,
+	    delegate: 'img',
+	    gallery: {enabled: true },
+	    image: {
+	        verticalFit: true,
+		titleSrc: 'alt'
+	    }
+ 	});
+ 	    });
   </script>
 
 

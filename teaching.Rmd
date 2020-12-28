@@ -1,5 +1,20 @@
 ---
-title: "Teaching"
 ---
 
-<a href="folder/main.pdf#" class="download" title="Download STAR poster as PDF">Download STAR poster</a>		
+$$\\[0.5in]$$
+
+* Northwestern University, Industrial Engineering and Management Sciences Department
+    + Instructor
+        - IEMS 303 Statistics (Undergraduate level), Spring 2019
+            - Class Size: 29, Instructor Overall Effectiveness: 5.35/6.00
+            - Sole instructor for this course, which focuses on the foundations of statistics and statistical computing for data
+analysis and their applications, and covers descriptive statistics and statistical inference
+            - Implemented a teaching project titled '<a href="folder/main.pdf#" class="download" title="Download STAR poster as PDF">Confidence in Learning Statistics with R Programming Language</a>' to improve student learning as a participant of [The Searle Center Teaching-As-Research](https://www.northwestern.edu/searle/initiatives/grad/cirtl/searle-teaching-as-research-program/index.html) (STAR) program, and presented findings at a poster session at Northwestern University
+          
+    + Teaching Assistant
+        - IEMS 202 Probability (Undergraduate level), Winter 2017, Spring 2018 
+        - IEMS 303 Statistics (Undergraduate level), Fall 2016, Fall 2018, Winter 2019
+        - MSIA 421 Data Mining (Graduate level), Winter 2018
+        
+        
+		

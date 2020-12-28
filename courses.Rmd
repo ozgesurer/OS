@@ -1,6 +1,7 @@
 ---
-title: "Courses"
 ---
+
+$$\\[0.5in]$$
 
 The list of courses that I have taken during my graduate studies:
 

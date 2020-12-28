@@ -1,6 +1,6 @@
 ---
-title: "Research"
 ---
+$$\\[0.5in]$$
 
 ##Interpretable, fast, and accurate predictive models
 

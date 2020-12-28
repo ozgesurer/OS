@@ -7,10 +7,7 @@
 
     
     
-    <title>Courses</title>
-    <!-- Material Design fonts -->
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <title></title>
 
         <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,17 +17,15 @@
     <script src="site_libs/navigation-1.1/tabsets.js"></script>
     <link href="site_libs/magnific-popup-1.1.0/magnific-popup.css" rel="stylesheet" />
     <script src="site_libs/magnific-popup-1.1.0/jquery.magnific-popup.min.js"></script>
-    <link href="site_libs/bootstrap_material-0.1/bootstrap-material-design.min.css" rel="stylesheet" />
-    <link href="site_libs/bootstrap_material-0.1/ripples.min.css" rel="stylesheet" />
-    <script src="site_libs/bootstrap_material-0.1/material.min.js"></script>
-    <script src="site_libs/bootstrap_material-0.1/ripples.min.js"></script>
-    <link href="site_libs/material-0.1/material.css" rel="stylesheet" />
-    <script src="site_libs/material-0.1/material.js"></script>
+    <link href="site_libs/readthedown-0.1/readthedown.css" rel="stylesheet" />
+    <link href="site_libs/readthedown-0.1/readthedown_fonts.css" rel="stylesheet" />
+    <script src="site_libs/readthedown-0.1/readthedown.js"></script>
     <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
     
     
     
+        <link rel="stylesheet" href="style.css" type="text/css" />
     
     <!-- tabsets -->
     <script>
@@ -48,7 +43,6 @@
     
     <!-- code download -->
     
-
     <!-- tabsets dropdown -->
 
     <style type="text/css">
@@ -83,15 +77,14 @@
 	  border-right: 1px solid #ddd;
       }
       
-      .pages .tabset-dropdown > .nav-tabs > li.active {
+      .tabset-dropdown > .nav-tabs > li.active {
 	  display: block;
       }
 
-      .pages .tabset-dropdown > .nav-tabs > li.active > a {
-	  background-color: transparent !important;
-	  color: #000000 !important;
+      .tabset-dropdown > .nav-tabs > li.active a {
+  	  padding: 0 15px !important;
       }
-      
+
       .tabset-dropdown > .nav-tabs > li > a,
       .tabset-dropdown > .nav-tabs > li > a:focus,
       .tabset-dropdown > .nav-tabs > li > a:hover {
@@ -99,9 +92,6 @@
 	  display: inline-block;
 	  border-radius: 4px;
 	  background-color: transparent;
-	  color: #00A698 !important;
-	  font-weight: 300 !important;
-	  font-size: 14px;
       }
       
       .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -111,101 +101,98 @@
       
       .tabset-dropdown > .nav-tabs > li {
 	  display: none;
+	  margin-left: 0 !important;
       }
     </style>
     
 </head>
 
-<body>
+<body class="preload">
 
-  <div class="header-panel shadow z-2">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-3">
-	  	  <div id="header">
-	    <h1 class="title">Courses</h1>
-	    	    	    	  </div>
-	  	</div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="container-fluid main-container">
-    <div class="row">
-
-      <nav class="col-xs-3 menu">
-	<div id="toc">
-          
-	</div>
-      </nav>
+            <!-- readthedown start -->   
+   <div id="content" data-toggle="wy-nav-shift">
+     <nav id="nav-top" role="navigation" aria-label="top navigation">
+       <a role="button" href="#" data-toggle="wy-nav-top"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
+     </nav>
+         
+   
       
-      <div class="pages col-xs-9">
-
-        <div class="row">
-	    	    
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Ozge's Website</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="research.html">Research</a>
-</li>
-<li>
-  <a href="CV.html">CV</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://github.com/ozgesurer">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://twitter.com/ozgesrr?lang=en">
-    <span class="fa fa-twitter fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/özge-sürer-48224a33">
-    <span class="fa fa-linkedin fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=3xDBhh4AAAAJ">
-    <span class="ai ai-google-scholar"></span>
-     
-  </a>
-</li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
-	        </div>
+   <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+     <div class="container">
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+         <a class="navbar-brand" href="index.html">Ozge's Website</a>
+       </div>
+       <div id="navbar" class="navbar-collapse collapse">
+         <ul class="nav navbar-nav">
+           <li>
+     <a href="index.html">Home</a>
+   </li>
+   <li>
+     <a href="research.html">Research</a>
+   </li>
+   <li>
+     <a href="CV.html">CV</a>
+   </li>
+         </ul>
+         <ul class="nav navbar-nav navbar-right">
+           <li>
+     <a href="contact.html">
+       <span class="fa fa-envelope fa-lg"></span>
         
-	<div class="row">
-
-	  <div class="col-xs-10">
-	    <p>The list of courses that I have taken during my graduate studies:</p>
+     </a>
+   </li>
+   <li>
+     <a href="https://github.com/ozgesurer">
+       <span class="fa fa-github fa-lg"></span>
+        
+     </a>
+   </li>
+   <li>
+     <a href="https://twitter.com/ozgesrr?lang=en">
+       <span class="fa fa-twitter fa-lg"></span>
+        
+     </a>
+   </li>
+   <li>
+     <a href="https://www.linkedin.com/in/özge-sürer-48224a33">
+       <span class="fa fa-linkedin fa-lg"></span>
+        
+     </a>
+   </li>
+   <li>
+     <a href="https://scholar.google.com/citations?hl=en&amp;user=3xDBhh4AAAAJ">
+       <span class="ai ai-google-scholar"></span>
+        
+     </a>
+   </li>
+         </ul>
+       </div><!--/.nav-collapse -->
+     </div><!--/.container -->
+   </div><!--/.navbar -->
+        
+      
+         <!-- readthedown authors -->
+   <div id="sidebar">
+    <h2><a href="#content"></a></h2>
+    <div id="toc">
+      
+    </div>
+    <div id="postamble" data-toggle="wy-nav-shift" class="status">
+                </div>
+   </div>
+   
+   
+      
+   
+<!-- Don't indent these lines or it will mess pre blocks indentation --> 
+<div id="main">
+<p><span class="math display">\[\\[0.5in]\]</span></p>
+<p>The list of courses that I have taken during my graduate studies:</p>
 <ul>
 <li><p><a href="https://www.mccormick.northwestern.edu/industrial/">Northwestern University</a></p>
 <ul>
@@ -246,131 +233,44 @@
 <li>CMPE 462: Machine Learning</li>
 </ul></li>
 </ul>
-	  </div>
+</div>
 
-	  <div class="col-xs-2">
+   
+   
+            
+      
 
-	    
-	    </div>
-    </div>
-	
-    
-    </div>
-  </div>
-
- <script>
+  <script>
     $(document).ready(function () {
-	// add bootstrap table styles to pandoc tables
-	$('tr.header').parent('thead').parent('table').addClass('table table-striped table-hover');
-	
-		var images = $('.pages img');
-	images.filter(function() {
-	    if ($(this).parent().attr("class") == "figure") {
-		return(false)
-	    } else {
-		return(true);
-	    }
-	}).wrap("<div class='figure'></div>");
-	images.addClass("image-thumb").wrap("<div class='panel-body'></div>");
-	$('.figure p.caption').wrap("<div class='panel-footer'></div>");
-	$('.figure').addClass('panel panel-default');
-	
-		$('.pages img').addClass("image-lb");
-	$('.pages').magnificPopup({
+
+			
+ 		
+		$('#content img').addClass("image-lb");
+	$('#content').magnificPopup({
 	    type:'image',
 	    closeOnContentClick: false,
 	    closeBtnInside: false,
-            delegate: 'img',
-	    gallery: {enabled: false },
-            removalDelay: 500,
-            callbacks: {
-		beforeOpen: function() {
-                    // just a hack that adds mfp-anim class to markup
-                    this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-		}
-            },
-            mainClass: 'mfp-move-from-top',
+	    delegate: 'img',
+	    gallery: {enabled: true },
 	    image: {
 	        verticalFit: true,
 		titleSrc: 'alt'
 	    }
  	});
- 	
-	  
-	$('#toc ul li').first().addClass("active");
-	$('#toc ul li').attr("data-target", function() {
-            return($(this).children("a").attr("href"));
-	})
-	$('body .section.level1').first().addClass("active");
-	$('body .section.level1').not('.active').hide();
-	
-	$('#toc a[href*="#"], a[href^="#"]').click(function() {
-	    var id = $(this).attr("href");
-	    if (id === "#") return;
-	    if (id.substring(0, 8) === "#dyntab-") return;
-	    // Menu
-	    var menu_entry = $(".menu li[data-target='"+id+"']");
-	    if (menu_entry.length == 0) {
-		window.location.hash = id;
-		return;
-	    }
-	    menu_entry.addClass("active");
-	    $(".menu li").not(menu_entry).removeClass("active"); 
-	    toggle_page(id);
-	});
-
-	function toggle_page(id) {
-	    $(".page").not(page).removeClass("active").hide();
-	    window.page = id;
-	    var page = $(window.page);
-	    window.location.hash = window.page;
-	    //$(this).addClass("active");
-	    page.show();
-
-	    var totop = setInterval(function () {
-		$(".pages").animate({scrollTop: 0}, 0);
-	    }, 10);
-
-	    setTimeout(function () {
-		page.addClass("active");
-		setTimeout(function () {
-		    clearInterval(totop);
-		}, 1000);
-	    }, 100);
-	    
-	    window.dispatchEvent(new Event('resize'));
-	}
+ 	    });
+  </script>
 
 
-	$(".menu li").click(function () {
-	    toggle_page($(this).data("target"));
-	    // Menu
-	    if (!$(this).data("target")) return;
-	    if ($(this).is(".active")) return;
-	    $(".menu li").not($(this)).removeClass("active");
-	    $(this).addClass("active");
-	});
+
+    <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+	var script = document.createElement("script");
+	script.type = "text/javascript";
+	script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+	document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
   
-	  
-	window.page = window.location.hash;
-	if (window.page != "") {
-	    $(".menu").find("li[data-target=" + window.page + "]").trigger("click");
-	}
-	/* init material bootstrap js */
-	$.material.init();
-    });
- </script>
-
-
-  <!-- dynamically load mathjax for compatibility with self-contained -->
- <script>
-   (function () {
-       var script = document.createElement("script");
-       script.type = "text/javascript";
-       script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
-       document.getElementsByTagName("head")[0].appendChild(script);
-   })();
- </script>
- 
 </body>
 </html>
