@@ -3,13 +3,20 @@
 $$\\[0.5in]$$
 
 * [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), Evanston, IL
+
     + Ph.D. in Industrial Engineering and Management Sciences, September 2020
-    + Major in *Applied Statistics & Statistical Learning*; Minors in *Analytics* and *Optimization*
-    + [Center for the Integration of Research, Teaching and Learning](https://www.northwestern.edu/searle/initiatives/grad/cirtl/index.html) (CIRTL) Scholar, June 2019
     
+    + Major in *Applied Statistics & Statistical Learning*; Minors in *Analytics* and *Optimization*
+    
+    + [Center for the Integration of Research, Teaching and Learning](https://www.northwestern.edu/searle/initiatives/grad/cirtl/index.html) (CIRTL) Scholar, June 2019
+
+$$\\[0.05in]$$ 
+
 * [Bogazici University](http://www.ie.boun.edu.tr), Istanbul, Turkey
     + M.S. in Industrial Engineering, 2014
     
+$$\\[0.05in]$$ 
+
 * [Istanbul Technical University](https://isl.itu.edu.tr/en/academics/departments/industrial-engineering), Istanbul, Turkey
     + B.S. in Industrial Engineering, 2011
 

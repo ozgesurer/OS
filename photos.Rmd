@@ -1,0 +1,40 @@
+---
+---
+$$\\[0.5in]$$
+
+## Istanbul
+
+<img src="folder/istanbul1.JPG" class="img2">
+$$\\[0.05in]$$
+<img src="folder/istanbul2.JPG" class="img2">
+$$\\[0.05in]$$
+
+## London
+
+$$\\[0.05in]$$
+
+## Milano
+
+$$\\[0.05in]$$
+
+## Como
+
+$$\\[0.05in]$$
+
+## Vancouver
+
+<img src="folder/vancouver1.JPG" class="img2">
+$$\\[0.05in]$$
+
+<img src="folder/vancouver2.JPG" class="img2">
+$$\\[0.05in]$$
+
+## Evanston
+$$\\[0.05in]$$
+
+<img src="folder/evanston1.JPG" class="img2">
+$$\\[0.05in]$$
+
+<img src="folder/evanston2.JPG" class="img2">
+$$\\[0.05in]$$
+<img src="folder/evanston4.JPG" class="img2">

@@ -1,10 +1,26 @@
 ---
 ---
-
 $$\\[0.5in]$$
-![](folder/os.jpg)
-Welcome to my personal website! 
 
-I am a Ph.D. candidate in the Industrial Engineering and Management Sciences Department at Northwestern University. I have an M.S. degree from the Industrial Engineering Department at Bogazici University in Turkey, and a B.S. degree in the same field at Istanbul Technical University.
 
-My research interests lie in applied statistical learning, in particular design of new interpretable predictive models and their interdisciplinary applications.
+<img src="folder/os.jpg" class="img1">
+
+Postdoctoral research fellow, [Northwestern-Argonne Institute of Science and Engineering](https://www.naise.northwestern.edu)
+
+Ph.D., Industrial Engineering and Management Sciences, Northwestern University
+
+Full CV (<a href="folder/CV_OzgeSurer.pdf#" class="download" title="Download CV as PDF">Download CV</a>)
+
+$$\\[0.1in]$$
+
+Currently, I am a postdoctoral research fellow at the Northwestern-Argonne Institute of Science and Engineering working with [Assistant Professor Matthew Plumlee](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/plumlee-matthew.html) (Northwestern) and [Sr. Research Scientist Dr. Stefan Wild](https://wildsm.github.io) (Argonne National Lab).
+
+Research interests:
+
+* Methodology: Statistical and Machine Learning, Predictive Models, Data Analysis/Mining, Uncertainty Quantification
+
+* Applications: Recommender Systems, Public Health, Nuclear Physics 
+
+
+<img src="folder/evanston1.JPG" class="img2">
+$$\\[0.5in]$$
