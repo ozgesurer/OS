@@ -1,4 +1,6 @@
 ---
+date: "`r Sys.Date()`"
+author: Özge Sürer
 ---
 
 $$\\[0.5in]$$
