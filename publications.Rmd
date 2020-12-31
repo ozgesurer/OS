@@ -9,9 +9,9 @@ $$\\[0.3in]$$
 
 1. Haoxiang Yang, **Özge Sürer**, Daniel Duque, David Morton, Bismark Singh, Spencer Fox, Remy Pasco, Kelly Pierce, Paul Rathouz, Zhanwei Du, Michael Pignone, Mark E. Escott, Stephen I. Adler, Clairborne Johnston, Lauren Ancel Meyers. Design of COVID-19 staged alert systems to ensure healthcare capacity with minimal closures. Under-revision. [[link](https://www.medrxiv.org/content/10.1101/2020.11.26.20152520v2)]
  
-1. **Özge Sürer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression:  Fast, accurate and interpretable predictive modeling. Under-revision
+1. **Özge Sürer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression:  Fast, accurate and interpretable predictive modeling. Under-revision.
 
-1. **Özge Sürer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression for discovering structure in generalized linear models. Under-revision
+1. **Özge Sürer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression for discovering structure in generalized linear models. Under-revision.
 
 1. **Özge Sürer**, Daniel Apley, Edward C. Malthouse. Discovering structure in longitudinal data via coefficient tree regression. In preparation.
 
