@@ -8,6 +8,20 @@ $$\\[0.5in]$$
 
 With the increased access to parallel computing environments, computer models have become pervasive throughout much of science to understand large and complex physical processes in many engineering and science disciplines. These models can be used for system design and optimization, forecasting and prediction, and to guide future data collection. Two major challenges exist in the usage of these models: the presence of unknown or observable parameters which must be inferred using data and the reality that all models are at least somewhat wrong. While there are Bayesian statistical tools to handle this in theory, this project aims to use computational research to transform these theoretical relationships into tools and techniques for making reliable computational predictions of complex systems with well-quantified uncertainties. This requires using cutting edge research in machine learning and statistical learning that can handle big data environments. The focus of my postdoctoral project is on building cyberinfrastructure for problems in the nuclear-physics (NP) domain. You can find more about the [Bayesian analysis of nuclear dynamics framework](https://bandframework.github.io) from the link.
 
+## COVID-19 response
+
+***Multi-tier opening policy for Austin to control COVID-19***
+
+In this study, we apply stochastic optimization to recommend policy triggers governing stages of community mitigation to prevent overwhelming hospital surges and ensure adequate capacity in the unlikely case that they occur.
+
+[[See our paper at MedRxiv](https://www.medrxiv.org/content/10.1101/2020.11.26.20152520v2)]
+
+[[See the technical report](https://cid.utexas.edu/sites/default/files/cid/files/houston_strategy_to_avoid_surge.pdf?m=1592489259)] 
+
+***Optimal vaccine allocation policy***
+
+Vaccines are the best tools to control the COVID-19 pandemic. Multiple types of vaccines with different dose requirements become available over time. We have been working on an age and risk-stratified mathematical model to obtain an optimal vaccine allocation policy.
+
 ## Interpretable, fast, and accurate predictive models
 
 My dissertation proposes a new algorithm, ***coefficient tree regression***, that fits regression models in a fundamentally different way to discover the group structure from high-dimensional data.
