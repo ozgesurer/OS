@@ -1,0 +1,10 @@
+---
+date: "`r Sys.Date()`"
+author: Özge Sürer
+---
+
+$$\\[0.3in]$$
+
+## CTR
+
+[[See CTR vignette and a toy example to illustrate our method](ctr-vignette.html)]

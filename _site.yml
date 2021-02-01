@@ -13,6 +13,8 @@ navbar:
       href: publications.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Software"
+      href: software.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
