@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 
 # Introduction
 
-The proliferation of data collection technologies commonly results in datasets of immense size with a large number of predictors. In practice, many groups of predictors often share a common regression coefficient (i.e., the predictors in the group affect the response only via their collective sum), where the groups are unknown in advance and must be discovered from the data. Sürer et. al. (2021) proposes an algorithm called coefficient tree regression (CTR) to discover the unknown group structure and fit the resulting regression model. Discovering unknown group structure automatically from the data is fundamentally important since the group structure leads to simple, parsimonious and interpretable models. This vignette describes the usage of CTR in R. See the Sürer et. al. (2021) reference paper listed below for details. 
+The proliferation of data collection technologies commonly results in datasets of immense size with a large number of predictors. In practice, many groups of predictors often share a common regression coefficient (i.e., the predictors in the group affect the response only via their collective sum), where the groups are unknown in advance and must be discovered from the data. Sürer et. al. (2020) proposes an algorithm called coefficient tree regression (CTR) to discover the unknown group structure and fit the resulting regression model. Discovering unknown group structure automatically from the data is fundamentally important since the group structure leads to simple, parsimonious and interpretable models. This vignette describes the usage of CTR in R. See the Sürer et. al. (2020) reference paper listed below for details. 
 
 We consider the standard linear regression model with $n$ observations and $p$ predictors having response observations $y_1, y_2, \ldots, y_n$ and predictor observations $x_{i, j}$, $i = 1, 2, \ldots, n$, $j = 1, 2, \ldots, p$:
 \[
@@ -161,7 +161,7 @@ As mentioned at a higher level the predictors can roughly be divided into a grou
 
 ## Description
 
-`CTR` requires a termination criterion to determine the number of derived predictors in the model at termination. Note that the model size is the only tuning parameter for CTR, and this can be chosen using $K$-fold CV. If `cv > 1`, the package performs $K$-fold CV, where $K$ = `cv`, to find the best model size, and then fits the final `CTR` model of this chosen size using all the data. In CV, a user must select an upper bound `Kmax` on the best model size. We recommend using $k_{max} = 20$ for the reasons that we discuss in Section 5 in the Sürer et. al. (2021) reference paper listed below.
+`CTR` requires a termination criterion to determine the number of derived predictors in the model at termination. Note that the model size is the only tuning parameter for CTR, and this can be chosen using $K$-fold CV. If `cv > 1`, the package performs $K$-fold CV, where $K$ = `cv`, to find the best model size, and then fits the final `CTR` model of this chosen size using all the data. In CV, a user must select an upper bound `Kmax` on the best model size. We recommend using $k_{max} = 20$ for the reasons that we discuss in Section 5 in the Sürer et. al. (2020) reference paper listed below.
 
 ## Usage
 
@@ -198,7 +198,7 @@ plot(cvCTR.fit)
 
 ## Description
 
-A user must select `Kmax`. In general, `Kmax = 20` is sufficient. See Section 5 in the Sürer et. al. (2021) reference paper listed below for details. However, in some cases a better model might be obtained with `Kmax > 20`. In this case, one should increase `Kmax` to a larger value (i.e., `Kmax = 40`) and compare the CV SSE of the larger fitted models. After increasing `Kmax` in this manner, instead of running the CTR algorithm and CV from scratch, one can use a warm-start strategy in which the `CTR` object for the initial `Kmax` are given as input to `warm.start`.
+A user must select `Kmax`. In general, `Kmax = 20` is sufficient. See Section 5 in the Sürer et. al. (2020) reference paper listed below for details. However, in some cases a better model might be obtained with `Kmax > 20`. In this case, one should increase `Kmax` to a larger value (i.e., `Kmax = 40`) and compare the CV SSE of the larger fitted models. After increasing `Kmax` in this manner, instead of running the CTR algorithm and CV from scratch, one can use a warm-start strategy in which the `CTR` object for the initial `Kmax` are given as input to `warm.start`.
 
 ## Usage
 
@@ -220,3 +220,7 @@ plot(cvCTR.fit.warmstart)
 #Summarize the fitted CTR model
 summary(cvCTR.fit.warmstart)
 ```
+
+# Reference
+
+**Özge Sürer**, Daniel Apley, Edward C. Malthouse. Coefficient tree regression:  Fast, accurate and interpretable predictive modeling
