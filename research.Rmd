@@ -16,11 +16,17 @@ In this study, we apply stochastic optimization to recommend policy triggers gov
 
 [[See our paper at MedRxiv](https://www.medrxiv.org/content/10.1101/2020.11.26.20152520v2)]
 
-[[See the technical report](https://cid.utexas.edu/sites/default/files/cid/files/houston_strategy_to_avoid_surge.pdf?m=1592489259)] 
+[[See the first technical report](https://cid.utexas.edu/sites/default/files/cid/files/houston_strategy_to_avoid_surge.pdf?m=1592489259)] 
+
+[[See the second technical report](https://sites.cns.utexas.edu/sites/default/files/cid/files/austin_acs_alternative.pdf?m=1610127444)]
+
+
 
 ***Optimal vaccine allocation policy***
 
 Vaccines are the best tools to control the COVID-19 pandemic. Multiple types of vaccines with different dose requirements become available over time. We have been working on an age and risk-stratified mathematical model to obtain an optimal vaccine allocation policy.
+
+[[See the technical report](https://covid-19.tacc.utexas.edu/media/filer_public/15/4d/154defa8-9217-478e-a459-8fc4144c61b5/austin_covid_alert_stage_and_mortality_trends_-_ut_-_may_2021.pdf)]
 
 ## Interpretable, fast, and accurate predictive models
 

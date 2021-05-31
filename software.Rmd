@@ -8,3 +8,7 @@ $$\\[0.3in]$$
 ## CTR
 
 [[See CTR vignette and a toy example to illustrate our method](ctr-vignette.html)]
+
+## surmise
+
+[[See the website of our Python package to do Bayesian uncertainty quantification](https://surmise.readthedocs.io/en/latest/)]

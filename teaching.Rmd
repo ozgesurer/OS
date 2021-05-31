@@ -22,7 +22,7 @@ $$\\[0.3in]$$
           - IEMS 202 Probability (Undergraduate level) (Winter 2017, Spring 2018)
           - IEMS 303 Statistics (Undergraduate level) (Fall 2016/2018, Winter 2019, Spring 2020)
         
-      * **Northwestern University, Master of Science in Analytics**
+     * **Northwestern University, Master of Science in Analytics**
           - MSIA 421 Data Mining (Graduate level) (Winter 2018)
         
 * **Grader**    
@@ -31,10 +31,9 @@ $$\\[0.3in]$$
 
 ## Mentorship experience		
 
-* **Undergraduate students***
+* **Undergraduate students**
     * **Northwestern University, Industrial Engineering and Management Sciences Department**
         + Achyut Kasi, Cindy Sanchez (June 2020--September 2020)
         + Aneesh Kudaravalli, Katherine Johns, Margot Dupeyroux, Robert Wong, Yun Hwan Choi (September 2020--December 2020)
-        + Huangda Shang (September 2020--Present)
+        + Huangda Shang (September 2020--March 2021)
         
-*All projects are supervised by [Professor David Morton](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/morton-david.html). 
